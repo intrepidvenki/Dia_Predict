@@ -42,7 +42,7 @@ To use this model:
 2. Navigate to the project directory:
 
    ```
-   cd diabetes-prediction
+   cd dia_predict
    ```
 
 3. Install the required dependencies (if any) using the following command:
@@ -54,7 +54,7 @@ To use this model:
 4. Run the prediction script, providing the age of the patient as input:
 
    ```
-   python predict.py --age 40
+   Run the jupyter notebook
    ```
 
    Replace `40` with the age of the patient you want to predict.
