@@ -57,7 +57,7 @@ To use this model:
    Run the jupyter notebook
    ```
 
-   Replace `40` with the age of the patient you want to predict.
+   Replace `40` with the age of the patient also weather the patient has the symptoms or not(1:Yes||2:No) you want to predict.
 
 ## Note
 
