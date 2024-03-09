@@ -1,4 +1,4 @@
-# Diabetes Prediction Model
+# Pre-Diabetes Prediction Model
 
 This repository contains a machine learning model built using logistic regression to predict whether a patient is likely to suffer from diabetes symptoms based on their age and other relevant features.
 
